@@ -385,6 +385,7 @@ Terminal Emulators
  - [tldr](https://github.com/dbrgn/tealdeer) - A very fast implementation of tldr in Rust.
  - [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
  - [tre](https://github.com/dduan/tre) - Tree command, improved.
+ - [Tura](https://github.com/Tura-AI/tura) - A local, open-source coding agent with CLI and TUI interfaces, written in Rust.
  - [viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
  - [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
  - [weztermocil](https://github.com/alexcaza/weztermocil) - Automatically create windows and panes in Wezterm via YAML configs (like Teamocil and iTermocil).
